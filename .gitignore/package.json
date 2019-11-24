@@ -1,0 +1,14 @@
+{
+  "name": "cortana",
+  "version": "1.0.0",
+  "description": "A bot maked by Fire",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FIre",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
